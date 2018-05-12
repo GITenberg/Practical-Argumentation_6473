@@ -1,4 +1,8 @@
 _repo: Practical-Argumentation_6473
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pattee, George K.
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2058'
     url: http://www.gutenberg.org/2009/agents/2058
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6473#Practical-Argumentation
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
